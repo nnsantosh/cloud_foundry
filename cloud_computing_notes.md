@@ -62,7 +62,10 @@
 
    
 3. Infrastructure as a Service(IaaS)
-    
+    Provides the consumer the capability to provision processing, storage, networks and other fundamental computing 
+    resources.
+    Consumer is able to deploy and run arbitrary software, which can include operating systems and applications.
+    Does not manage or control the underlying cloud infrastructure but has control over the operating systems, storage,         deployed applications and possibly limited control of select networking components(e.g. host firewalls).
     
 ## 12 Factor apps
 
