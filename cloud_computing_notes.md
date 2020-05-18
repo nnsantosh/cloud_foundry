@@ -39,12 +39,27 @@
     Consumer does not manage or control the underlying cloud infrastructure.
 
 2. Platform as a Service(PaaS)
-    Provides the consumer the capability to deploy onto the cloud infrastructure consumer created or acquired applications developed using 
-    programming languages and tools supported by the provider.
+    Provides the consumer the capability to deploy onto the cloud infrastructure consumer created or acquired applications       developed using programming languages and tools supported by the provider.
     Consumer does not manage or control the underlying cloud infrastructure.
     Consumer has control over the deployed applications and possibly application hosting environment configurations.
     Example: Cloud Foundry, Microsoft Azure and Google cloud
+    
+    ### What is a platform?
+        Anything you leverage to accomplish a task.
+        You dont have to start from scratch.
+        Well known software platforms are Windows and MAC OS.
+    ### What is Paas?
+        With PaaS you don't have to deal with hardware or software in most situations.
+        Providers deliver everything from Servers to Runtime for your application.
 
+    ### Goal of a PaaS?
+        The ultimate goal of a PaaS is to make it easier for you to run your website or web application
+        no matter how much traffic it gets.
+        You just deploy your application and the service figures out what to do with it.
+        A Paas should handle scaling seamlessly for you so you can just focus on your website and the code running it.
+        Some PaaS Providers: CloudFoundry, AWS , GCP, IBM Bluemix, Microsoft Azure, SAP with HANA Clould platform
+
+   
 3. Infrastructure as a Service(IaaS)
     
     
